@@ -1,0 +1,2 @@
+# WurtheringWave_Analyzer_exe
+存放版本exe文件
